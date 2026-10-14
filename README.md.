@@ -1,24 +1,25 @@
-# Sales Data Analysis Using Excel 📊
+
+# 📊 Sales Data Analysis Using Excel
 
 ## Project Overview
-This project analyzes sales data using Microsoft Excel
-to identify trends and understand business performance.
+This project focuses on analyzing sales data using Microsoft Excel
+to understand sales performance and identify trends.
 
 ## Tools Used
 - Microsoft Excel
-- Pivot Tables
+- Data Cleaning
 - Charts and Data Visualization
 
 ## Project Objectives
-- Analyze overall sales performance.
-- Identify top-selling products.
-- Compare sales across categories.
+- Analyze sales performance.
+- Identify sales trends.
+- Compare product sales.
 - Present findings using charts.
 
-## Key Learnings
-- Data organization and cleaning.
-- Sales analysis.
-- Data visualization.
+## Project File
+- kajalsaw excel project.xlsx
 
-## Project Files
-- Sales Analysis Excel workbook (.xlsx)
+## Key Learnings
+- Organizing sales data.
+- Working with Excel.
+- Understanding business performance.
